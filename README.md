@@ -10,4 +10,5 @@ Jumlah Data Terdiri dari 30 Kolom dan 2240 baris
 ## Problem 
 Membuat Clustering data menggunakan KMeans
 
-## EDA 
+## Fiture Extraction
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/96099aeda723bfcf720432e40702dab0cb601829/Future%20Extraction.png)
