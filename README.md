@@ -1,2 +1,4 @@
 # Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning
-Mini Project
+
+## DATA 
+Data yang di gunakan berasal dari Rakamin Academy 
