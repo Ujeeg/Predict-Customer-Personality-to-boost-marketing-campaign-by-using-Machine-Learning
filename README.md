@@ -42,6 +42,14 @@ Membuat Clustering data menggunakan KMeans
 ![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/fd8a911e614404f4f723df074844c5c04a3fac87/Multivariete.png)
 
 
+4. Age Grup with CVR
+
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/b2ea1fbf237698cc5231934782d87bf9fe47193d/Age%20group%20EDA.png)
+
+5. Education with CVR
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/b2ea1fbf237698cc5231934782d87bf9fe47193d/Education%20EDA.png)
+
+## Preprocessing
 
 
 
