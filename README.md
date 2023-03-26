@@ -62,7 +62,9 @@ Membuat Clustering data menggunakan KMeans
 ## Clustering
 ### 1. Data Selection for Clusterring
 
-![]()
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/e563ded44807e818fcc580a70321c7ab6993ca7f/Data%20selection%20clustering.png)'
+
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/e563ded44807e818fcc580a70321c7ab6993ca7f/Data%20selection%20clustering%20LMRFC.png)
 
 
 
