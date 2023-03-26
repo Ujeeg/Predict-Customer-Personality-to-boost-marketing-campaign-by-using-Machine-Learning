@@ -28,5 +28,6 @@ Membuat Clustering data menggunakan KMeans
 
 
 ## EDA
-
+1. Numeric data
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/11ba8b7c2c793d4037b1485733e492234edef5e0/Univariate%201.png)  ![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/11ba8b7c2c793d4037b1485733e492234edef5e0/Univariate%202.png)
 
