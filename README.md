@@ -60,6 +60,10 @@ Membuat Clustering data menggunakan KMeans
 ![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/4fefdb39351632cdcbe848faca342b9281d0c8b3/Duplicate%20data.png)
 
 ## Clustering
+### 1. Data Selection for Clusterring
+
+![]()
+
 
 
 
