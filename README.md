@@ -13,6 +13,16 @@ Membuat Clustering data menggunakan KMeans
 ## Fiture Extraction
 1. Membuat Kolom Acceptedcmp dengan menjumlah Acceptedcmp1 - Acceptedcmp5
 2. Membuat Kolom NumPurcashes dengan menjumlah kolom NumDealsPurcashes, NumWebPurchases, NumStorePurchases, NumCatalogPurchases
-3, Membuat Kolom SpendProduct dengan menjumlah kolom MntCoke,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds
-
+3. Membuat Kolom SpendProduct dengan menjumlah kolom MntCoke,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds
+4. Membuat Kolom Age dengan Mengurangi kolom Year_Birth dengan Tahun Pengerjaan
+5. Membuat Kolom Age Group 
+6. Membuat Kolom convention_rate
+7. Membuat kolom children dengan menjumlahkan kidhome dan Teenhome
+8. Memperbaiki data marital_status 
 ![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/96099aeda723bfcf720432e40702dab0cb601829/Future%20Extraction.png)
+
+## Drop Data for EDA
+
+## EDA
+
+
