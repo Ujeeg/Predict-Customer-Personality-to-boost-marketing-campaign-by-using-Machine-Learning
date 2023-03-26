@@ -11,4 +11,8 @@ Jumlah Data Terdiri dari 30 Kolom dan 2240 baris
 Membuat Clustering data menggunakan KMeans
 
 ## Fiture Extraction
+1. Membuat Kolom Acceptedcmp dengan menjumlah Acceptedcmp1 - Acceptedcmp5
+2. Membuat Kolom NumPurcashes dengan menjumlah kolom NumDealsPurcashes, NumWebPurchases, NumStorePurchases, NumCatalogPurchases
+3, Membuat Kolom SpendProduct dengan menjumlah kolom MntCoke,MntFruits,MntMeatProducts,MntFishProducts,MntSweetProducts,MntGoldProds
+
 ![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/96099aeda723bfcf720432e40702dab0cb601829/Future%20Extraction.png)
