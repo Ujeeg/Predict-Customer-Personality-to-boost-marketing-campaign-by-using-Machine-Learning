@@ -29,5 +29,19 @@ Membuat Clustering data menggunakan KMeans
 
 ## EDA
 1. Numeric data
-![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/11ba8b7c2c793d4037b1485733e492234edef5e0/Univariate%201.png)  ![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/11ba8b7c2c793d4037b1485733e492234edef5e0/Univariate%202.png)
+
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/11ba8b7c2c793d4037b1485733e492234edef5e0/Univariate%201.png)  
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/11ba8b7c2c793d4037b1485733e492234edef5e0/Univariate%202.png)
+
+2. Categorical Data
+
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/3a510c58996b71d6386cddf491749ed25034cd5f/Univariate%20cat.png)
+
+3. Correlation
+
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/fd8a911e614404f4f723df074844c5c04a3fac87/Multivariete.png)
+
+
+
+
 
