@@ -52,7 +52,14 @@ Membuat Clustering data menggunakan KMeans
 
 ## Preprocessing
 1. Handling Data Null
+
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/4fefdb39351632cdcbe848faca342b9281d0c8b3/Null%20data.png)
+
 2. Handling Data Duplicate
+
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/4fefdb39351632cdcbe848faca342b9281d0c8b3/Duplicate%20data.png)
+
+## Clustering
 
 
 
