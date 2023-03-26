@@ -19,9 +19,13 @@ Membuat Clustering data menggunakan KMeans
 6. Membuat Kolom convention_rate
 7. Membuat kolom children dengan menjumlahkan kidhome dan Teenhome
 8. Memperbaiki data marital_status 
+
 ![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/96099aeda723bfcf720432e40702dab0cb601829/Future%20Extraction.png)
 
 ## Drop Data for EDA
+
+![](https://github.com/Ujeeg/Predict-Customer-Personality-to-boost-marketing-campaign-by-using-Machine-Learning/blob/dc0c1148d367ca72dd664cdb80be61224c52f7d9/Drop%20data.png)
+
 
 ## EDA
 
